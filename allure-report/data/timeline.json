@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MSI",
+    "children" : [ {
+      "name" : "10844@MSI.main(1)",
+      "children" : [ {
+        "name" : "Добавление ожидаемой посылки",
+        "uid" : "574bdea126d3d678",
+        "parentUid" : "7d18753b2063117230f24c6a36f6f3b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668271166006,
+          "stop" : 1668271198824,
+          "duration" : 32818
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Авторизация клиента ошибочная",
+        "uid" : "ccf1ff91a3b98a6e",
+        "parentUid" : "7d18753b2063117230f24c6a36f6f3b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668271219671,
+          "stop" : 1668271225496,
+          "duration" : 5825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Успешная авторизация клиента",
+        "uid" : "8f2b15e3b25c2a8f",
+        "parentUid" : "7d18753b2063117230f24c6a36f6f3b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668271198893,
+          "stop" : 1668271206433,
+          "duration" : 7540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Авторизация оператора",
+        "uid" : "a815bc99f8276af6",
+        "parentUid" : "7d18753b2063117230f24c6a36f6f3b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668271206439,
+          "stop" : 1668271211543,
+          "duration" : 5104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Регистрация клиента без реферального кода",
+        "uid" : "3b188cf3252e6d9e",
+        "parentUid" : "7d18753b2063117230f24c6a36f6f3b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1668271211550,
+          "stop" : 1668271219666,
+          "duration" : 8116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d18753b2063117230f24c6a36f6f3b3"
+    } ],
+    "uid" : "4e235fbd4c199973bc00f3dda2ae852d"
+  } ]
+}

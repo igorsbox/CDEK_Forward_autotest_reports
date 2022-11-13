@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3b188cf3252e6d9e",
+  "name" : "Регистрация клиента без реферального кода",
+  "time" : {
+    "start" : 1668271211550,
+    "stop" : 1668271219666,
+    "duration" : 8116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a815bc99f8276af6",
+  "name" : "Авторизация оператора",
+  "time" : {
+    "start" : 1668271206439,
+    "stop" : 1668271211543,
+    "duration" : 5104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "574bdea126d3d678",
+  "name" : "Добавление ожидаемой посылки",
+  "time" : {
+    "start" : 1668271166006,
+    "stop" : 1668271198824,
+    "duration" : 32818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccf1ff91a3b98a6e",
+  "name" : "Авторизация клиента ошибочная",
+  "time" : {
+    "start" : 1668271219671,
+    "stop" : 1668271225496,
+    "duration" : 5825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f2b15e3b25c2a8f",
+  "name" : "Успешная авторизация клиента",
+  "time" : {
+    "start" : 1668271198893,
+    "stop" : 1668271206433,
+    "duration" : 7540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

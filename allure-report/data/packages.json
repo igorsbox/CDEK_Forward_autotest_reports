@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest",
+    "children" : [ {
+      "name" : "addIncomingPackage",
+      "uid" : "574bdea126d3d678",
+      "parentUid" : "c874d52f8bca9f6124fd4ed09673a34e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271166006,
+        "stop" : 1668271198824,
+        "duration" : 32818
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "successfulAutorisationClient",
+      "uid" : "8f2b15e3b25c2a8f",
+      "parentUid" : "c874d52f8bca9f6124fd4ed09673a34e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271198893,
+        "stop" : 1668271206433,
+        "duration" : 7540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "successfulAuthorizationOperator",
+      "uid" : "a815bc99f8276af6",
+      "parentUid" : "c874d52f8bca9f6124fd4ed09673a34e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271206439,
+        "stop" : 1668271211543,
+        "duration" : 5104
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "registrationClientWithoutReferralLink",
+      "uid" : "3b188cf3252e6d9e",
+      "parentUid" : "c874d52f8bca9f6124fd4ed09673a34e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271211550,
+        "stop" : 1668271219666,
+        "duration" : 8116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "wrongAutorizationClient",
+      "uid" : "ccf1ff91a3b98a6e",
+      "parentUid" : "c874d52f8bca9f6124fd4ed09673a34e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271219671,
+        "stop" : 1668271225496,
+        "duration" : 5825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  } ]
+}

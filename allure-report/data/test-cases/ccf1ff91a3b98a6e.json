@@ -1,0 +1,60 @@
+{
+  "uid" : "ccf1ff91a3b98a6e",
+  "name" : "Авторизация клиента ошибочная",
+  "fullName" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest.wrongAutorizationClient",
+  "historyId" : "50bd917291a361b3005920c384bd14d2",
+  "time" : {
+    "start" : 1668271219671,
+    "stop" : 1668271225496,
+    "duration" : 5825
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest]/[method:wrongAutorizationClient()]"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "10844@MSI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "wrongAutorizationClient"
+  }, {
+    "name" : "suite",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccf1ff91a3b98a6e.json",
+  "parameterValues" : [ ]
+}

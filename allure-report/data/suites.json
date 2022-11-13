@@ -1,0 +1,74 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest",
+    "children" : [ {
+      "name" : "Добавление ожидаемой посылки",
+      "uid" : "574bdea126d3d678",
+      "parentUid" : "7f55a06ec4993280f4ff53d89132c3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271166006,
+        "stop" : 1668271198824,
+        "duration" : 32818
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Успешная авторизация клиента",
+      "uid" : "8f2b15e3b25c2a8f",
+      "parentUid" : "7f55a06ec4993280f4ff53d89132c3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271198893,
+        "stop" : 1668271206433,
+        "duration" : 7540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация оператора",
+      "uid" : "a815bc99f8276af6",
+      "parentUid" : "7f55a06ec4993280f4ff53d89132c3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271206439,
+        "stop" : 1668271211543,
+        "duration" : 5104
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Регистрация клиента без реферального кода",
+      "uid" : "3b188cf3252e6d9e",
+      "parentUid" : "7f55a06ec4993280f4ff53d89132c3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271211550,
+        "stop" : 1668271219666,
+        "duration" : 8116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация клиента ошибочная",
+      "uid" : "ccf1ff91a3b98a6e",
+      "parentUid" : "7f55a06ec4993280f4ff53d89132c3d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668271219671,
+        "stop" : 1668271225496,
+        "duration" : 5825
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7f55a06ec4993280f4ff53d89132c3d7"
+  } ]
+}

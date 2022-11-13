@@ -1,0 +1,60 @@
+{
+  "uid" : "3b188cf3252e6d9e",
+  "name" : "Регистрация клиента без реферального кода",
+  "fullName" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest.registrationClientWithoutReferralLink",
+  "historyId" : "a0865ba240b0320b79655503353a4d12",
+  "time" : {
+    "start" : 1668271211550,
+    "stop" : 1668271219666,
+    "duration" : 8116
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest]/[method:registrationClientWithoutReferralLink()]"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "10844@MSI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "registrationClientWithoutReferralLink"
+  }, {
+    "name" : "suite",
+    "value" : "com.igorsbox.ForwardCDEKClient.ForwardCDEKPageObjectTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b188cf3252e6d9e.json",
+  "parameterValues" : [ ]
+}
